@@ -25,7 +25,7 @@ p { font-size: 18px; margin-top: 20px; }
 </head>
 <body>
 <div class="container">
-<h1>Generador aleatorio de Hola Mundos </h1>
+<h1>Generador aleatorio de Hola Mundos</h1>
 <form method="post">
 <button type="submit">Generar</button>
 </form>
